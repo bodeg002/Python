@@ -4,5 +4,5 @@
 # print(no)
 
 print("stukkie tekst van Arnoud\n")
-print("nog een regel door A")
-print("derde regel!")
+print("nog een regel door A\n")
+print("derde regel!\n")
