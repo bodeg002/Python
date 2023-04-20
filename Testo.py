@@ -5,4 +5,4 @@
 
 print("stukkie tekst van Arnoud\n")
 print("nog een regel door A")
-print("derde regel")
+print("derde regel!")
